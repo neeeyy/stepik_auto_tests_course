@@ -1,1 +1,1 @@
-123# stepik_auto_tests_course
+Новое содержимое файла
